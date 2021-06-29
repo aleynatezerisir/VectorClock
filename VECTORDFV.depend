@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1622833625 source:c:\users\kullanýcý\desktop\160101026-ser\vectordfv\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1622839489 source:c:\users\kullanýcý\desktop\160101026-ser\160101026-170101004\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
